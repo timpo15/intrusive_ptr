@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/intrusive_ptr.dir/main.cpp.o  -o intrusive_ptr 
